@@ -1,9 +1,3 @@
-'''
-Jakub Kuczmarski
-nr indeksu 297300
-grupa pt 10-12
-'''
-
 import numpy as np
 import matplotlib.pyplot as plt
 import random
